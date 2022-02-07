@@ -2,4 +2,14 @@
     <string name="app_name">Contacts</string>
     <string name="login">Login</string>
     <string name="Register">Register</string>
+    <string name="leader">লিডার বোর্ড</string>
+    <string name="name">শহিদুল ইসলাম শিশির</string>
+    <string name="point">মোট পয়েন্ট</string>
+    <string name="points">২০০০</string>
+    <string name="place">অবস্থান</string>
+    <string name="fifth">৫ম</string>
+    <string name="score_day">স্কোরিং দিন</string>
+    <string name="fifth_day">৫ম দিন</string>
+    <string name="score_time">স্কোরিং সময়</string>
+    <string name="time">১০:৪৫:৩০</string>
 </resources>
