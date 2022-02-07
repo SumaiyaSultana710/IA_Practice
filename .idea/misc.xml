@@ -3,20 +3,34 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/first.xml" value="0.108" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/firsttt.xml" value="0.108" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/group_25.xml" value="0.2055" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/group_26.xml" value="0.2055" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_baseline_near_me_24.xml" value="0.123" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.123" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_channel_background.xml" value="0.14" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_channel_foreground.xml" value="0.14" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_fas_bars.xml" value="0.1945" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_fas_search.xml" value="0.1945" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_main_bg_1.xml" value="0.14" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_rectangle_5.xml" value="0.14" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/icon_message.xml" value="0.123" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/icon_movie.xml" value="0.1" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/icon_person.xml" value="0.123" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/image_9.xml" value="0.14" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/place.xml" value="0.108" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/place4.xml" value="0.108" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/place5.xml" value="0.108" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/place6.xml" value="0.108" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/rectangle_30.xml" value="0.14" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/third.xml" value="0.108" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/chip_navbar.xml" value="0.17074275362318841" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/dashboard.xml" value="0.17074275362318841" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/login.xml" value="0.17074275362318841" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/menubar.xml" value="0.22" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/new_layout_figma.xml" value="0.2" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/menu/bottom_app_bar.xml" value="0.20416666666666666" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/menu/nav_menu.xml" value="0.20416666666666666" />
       </map>
