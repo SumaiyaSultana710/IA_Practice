@@ -5,9 +5,12 @@
       <map>
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_baseline_near_me_24.xml" value="0.123" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.123" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_channel_background.xml" value="0.14" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_channel_foreground.xml" value="0.14" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_fas_bars.xml" value="0.1945" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/ic_fas_search.xml" value="0.1945" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/icon_message.xml" value="0.123" />
+        <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/icon_movie.xml" value="0.1" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/drawable/icon_person.xml" value="0.123" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/STUDY/Attachment/Contacts/app/src/main/res/layout/chip_navbar.xml" value="0.17074275362318841" />
